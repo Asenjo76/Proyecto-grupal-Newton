@@ -41,18 +41,23 @@ Finalmente, los datos se cargan en un DataFrame de Pandas, permitiendo realizar:
 --- 
 
 ## EQUIPO 1:
-📊 Proyecto Grupal de Estadística: Estadística descriptiva.
 
-Nuestro análisis se ha centrado en los países europeos, escogiendo marcadores como densidad poblacional, área de los países y lenguaje para, a través de ellos, mostrar de una forma práctica como realizar consultas de estadística descriptiva (media, mediana, moda, varianza, desviación típica, percentil y cuartil).
-
-[Cheyenne](https://github.com/cheyennecg)
-[Chiara](https://github.com/chiaracont)
-[Jenireé](https://github.com/JenireeTovar)
-[Eva](https://github.com/evaponton)
-[Alejandro P.](https://github.com/AlexPG14)
 ## EQUIPO 2:
 
 ## EQUIPO 3:
+# 🎲 Probabilidad y distribuciones
+
+### Probabilidad 
+La probabilidad mide el grado de incertidumbre de un evento. En el análisis de datos, permite estimar qué tan probable es obtener un determinado resultado, generalmente a partir de una pregunta o hipótesis planteada.
+
+### Distribuciones
+Las distribuciones describen cómo se reparten los valores o probabilidades de una variable, mostrando qué resultados son más o menos probables.
+
+
+### Hipótesis
+Es una afirmación o suposición sobre un fenómeno o parámetro que se formula para ser evaluada con datos y determinar su probabilidad o validez. 
+# Integrantes del equipo:
+- [Graciela](https://github.com/Graceila82)
 
 ## EQUIPO 4:
 
