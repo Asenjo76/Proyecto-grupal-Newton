@@ -41,7 +41,15 @@ Finalmente, los datos se cargan en un DataFrame de Pandas, permitiendo realizar:
 --- 
 
 ## EQUIPO 1:
+📊 Proyecto Grupal de Estadística: Estadística descriptiva.
 
+Nuestro análisis se ha centrado en los países europeos, escogiendo marcadores como densidad poblacional, área de los países y lenguaje para, a través de ellos, mostrar de una forma práctica como realizar consultas de estadística descriptiva (media, mediana, moda, varianza, desviación típica, percentil y cuartil).
+
+[Cheyenne](https://github.com/cheyennecg)
+[Chiara](https://github.com/chiaracont)
+[Jenireé](https://github.com/JenireeTovar)
+[Eva](https://github.com/evaponton)
+[Alejandro P.](https://github.com/AlexPG14)
 ## EQUIPO 2:
 
 ## EQUIPO 3:
