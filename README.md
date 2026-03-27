@@ -52,12 +52,14 @@ La probabilidad mide el grado de incertidumbre de un evento. En el análisis de 
 
 ### Distribuciones
 Las distribuciones describen cómo se reparten los valores o probabilidades de una variable, mostrando qué resultados son más o menos probables.
+Integrantes del equipo:
 
-
-### Hipótesis
-Es una afirmación o suposición sobre un fenómeno o parámetro que se formula para ser evaluada con datos y determinar su probabilidad o validez. 
-# Integrantes del equipo:
 - [Graciela](https://github.com/Graceila82)
+- [Diana](https://github.com/MiniiNa)
+- [Karolina](https://github.com/KrolinaTF)
+- [Alain](https://github.com/Alain-coder1)
+- [Oksana](https://github.com/ksu727096-maker)
+- [Francisco](https://github.com/fcoxjp-art)
 
 ## EQUIPO 4:
 
